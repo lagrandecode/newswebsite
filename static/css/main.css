@@ -1,0 +1,22 @@
+
+body{
+    background-color: aquamarine;
+}
+.navbar{
+    background-color: yellow;
+}
+
+.nav{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+img:before {
+    content: ' ';
+    display: block;
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    background-image: url(ishere.jpg);
+}
+
